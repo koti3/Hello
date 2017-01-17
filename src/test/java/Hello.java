@@ -5,4 +5,11 @@ public class Hello {
    public  static doNothing () {
 
    }
+
+    public  static doNothing2 () {
+
+    }
+
+
+
 }
